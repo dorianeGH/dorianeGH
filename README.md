@@ -1,4 +1,5 @@
 
+
 <!--
 **dorianeGH/dorianeGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +23,7 @@ I am looking to collaborate on new projects
 
 ## Skills
 ### Languages
-![Untitled](https://user-images.githubusercontent.com/77629068/118712688-5dad4480-b821-11eb-85ba-a4385c7fd8ec.png)
+![lang](https://user-images.githubusercontent.com/77629068/118766749-24a2bd80-b87d-11eb-9c98-4cdc7136573c.png)
 ### Librairies / Frameworks
 ![Frameworks](https://user-images.githubusercontent.com/77629068/118764996-b3faa180-b87a-11eb-87a1-e910e8dc5b3d.png)
 ### Tools
@@ -34,8 +35,7 @@ I am looking to collaborate on new projects
 
 <p align="center">
   <b></b><br>
-  <a href="https://www.linkedin.com/in/doriane-berdala-02600068/">Linkedin</a> |
-  <a href="#">My portfolio</a>
+  | <a href="https://www.linkedin.com/in/doriane-berdala-02600068/">Linkedin</a> |
   <br><br>
 </p>
 
